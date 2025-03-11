@@ -1,8 +1,13 @@
-# Real_Estate_Chat_Bot: A Realtor's Assistant for Austin
+# 🏠 Real Estate Chat Bot: A Realtor's Assistant for Austin
 
 This project aims to provide real estate agents in Austin with an intelligent chatbot to help them find houses for their clients. By leveraging Natural Language Processing (NLP), the bot will assist agents in filtering homes based on client specifications, such as the number of bedrooms, direction the house faces, and other preferences. The bot will support detailed conversation and search features, and the goal is to make it intuitive and efficient for realtors.
 
----
+## Background
+
+Growing up in a family of realtors, I've witnessed firsthand the challenges real estate agents face when trying to find the perfect property for their clients. My parents, who have been working as real estate agents in Austin for years, constantly navigate the struggles of filtering and comparing numerous listings, tracking down key details for clients, and responding to specific, complex requests. Whether it's helping a client find a house with particular features or one that meets very specific needs, the process can be time-consuming and cumbersome. 
+
+This project was inspired by those challenges. The goal is to simplify and accelerate the search process, allowing agents to focus on what matters most: helping clients find their dream homes. With this chatbot, I aim to provide realtors like my parents with an intuitive tool that can quickly handle complex queries, such as "I need to find my client a south-facing house with 5 bedrooms and 2 bedrooms downstairs," saving time and improving the experience for both realtors and their clients.
+
 
 ## Features
 
