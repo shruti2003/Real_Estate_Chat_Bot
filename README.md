@@ -148,6 +148,3 @@ This project is **in progress**. We are continuously improving the bot's ability
     - Integration with more data sources to provide accurate results.
 
 ---
-
-## License:
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
